@@ -1,6 +1,8 @@
-# Portal
+# Portal demo library in Elixr
 
-**TODO: Add description**
+Just testing Elixir programming language
+
+**TODO: Add tests**
 
 ## Installation
 
@@ -17,4 +19,4 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:portal]]
         end
-# elixir-timetravel
+
