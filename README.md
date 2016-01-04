@@ -1,4 +1,4 @@
-# Portal demo library in Elixr
+# Timetravel test app in Elixir
 
 Just testing Elixir programming language
 
