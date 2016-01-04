@@ -2,7 +2,7 @@
 
 Just testing Elixir programming language
 
-**TODO: Add tests**
+**TODO: write tests**
 
 ## Installation
 
